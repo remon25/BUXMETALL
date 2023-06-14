@@ -694,6 +694,10 @@ image {
   -ms-transition: 0.3s;
   -o-transition: 0.3s;
 }
+.footer__social-link img{
+  width: 16px;
+  height: 16px;
+}
 .footer__social-link:hover {
   transform: translateY(-0.25rem);
   -webkit-transform: translateY(-0.25rem);
