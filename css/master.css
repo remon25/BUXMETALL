@@ -694,7 +694,7 @@ image {
   -ms-transition: 0.3s;
   -o-transition: 0.3s;
 }
-.footer__social-link img{
+.footer__social-link i{
   width: 16px;
   height: 16px;
 }
