@@ -1055,6 +1055,14 @@ image {
   margin-bottom: 0.75rem;
 }
 
+.impressum__container-content-bigtitle{
+  margin-bottom: 1rem;
+}
+.impressum__container-content-list{
+  list-style: initial;
+  padding-left: 2.5rem;
+}
+
 @media screen and (max-width: 360px) {
   .impressum__container-content-title {
     font-size: 5vw;
