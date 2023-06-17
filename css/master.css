@@ -1017,8 +1017,9 @@ image {
 
 .impressum__container-header h1 {
   position: relative;
+  font-size: 1.75rem;
+  font-weight: bold;
   text-align: center;
-  font-size: 2.25rem;
   color: var(--title-color);
   margin-bottom: 5rem;
   padding-bottom: 2rem;
@@ -1070,5 +1071,8 @@ image {
   .impressum__container-content-title,
   .impressum__container-content-text {
     font-size: 4vw;
+  }
+  .impressum__container-header h1 {
+    font-size: 6vw;
   }
 }
